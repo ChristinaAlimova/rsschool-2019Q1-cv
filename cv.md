@@ -32,3 +32,10 @@ sure I manage my time well.
 | 18.02.2019 - 18.07.2019  | **The Rolling Scopes School**<br/>Front-end developer  |
 | 16.11.2015 - 24.12.2015  | **QA Academy**<br/>Basics of Software testing  |
 | 2011 - 2016   | **Belarus State Economic University**<br/>Institute of Social Science and Humanities Education |
+
+### Skills ###
+
+- HTML
+- CSS
+- JavaScript
+- English B2
