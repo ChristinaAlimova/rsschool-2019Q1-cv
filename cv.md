@@ -21,6 +21,14 @@ sure I manage my time well.
 | Period        | Job |
 | ------------- | ------------- |
 | 2017-2018     | **Company in Minsk** <br/>*QA Engineer* <br/>Managing existing test-cases, creating new tests.<br/> Checking code conventions compliance.<br/> Communication with PO and developers, taking part in estimations.<br/>   |
-| 2015-2016     | **Company in Minsk**<br/> *Human Resources specialist*<br/> Support of full cycle HR processes (onboarding, adaptation, retention, performance review, talent development).<br/> Provide advice to people managers and team members on all performance related issues, including special programs for high potential talent, development roadmaps and succession planning, surveys responsibilities.|
+| 2015-2016     | **Company in Minsk**<br/> *Human Resources specialist*<br/> Support of full cycle HR processes (onboarding, adaptation, retention, performance review, talent development).<br/> Provide advice to people managers and team members on all performance related issues, including special programs for high potential talent, development roadmaps and succession planning, surveys responsibilities.
 
 
+### Education ###
+
+
+| Period        | Education     |
+| ------------- | ------------- |
+| 18.02.2019 - 18.07.2019  | **The Rolling Scopes School**<br/>Front-end developer  |
+| 16.11.2015 - 24.12.2015  | **QA Academy**<br/>Basics of Software testing  |
+| 2011 - 2016   | **Belarus State Economic University**<br/>Institute of Social Science and Humanities Education |
