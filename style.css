@@ -412,3 +412,175 @@ h4 {
     margin-top: 3px;
     margin-bottom: 0;
 }
+
+/*start block B / skills*/
+
+.skills {
+    height: 200px;
+}
+
+.chapter3 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 250px;
+    height: 39px;
+    padding-left: 20px;
+    padding-top: 3px; 
+}
+
+.hLine3 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 46px;
+}
+
+.profSkills {
+    position: relative;
+    bottom: 16px;
+}
+
+.profSkills h4 {
+    color: #31383d;
+    position: relative;
+    left: 40px;
+} 
+
+span {
+    color: #31383d;
+    position: relative;
+    display: block;
+}
+
+.skill1 {
+    left: 40px;
+}
+
+.hLine4 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 20px;
+    right: 100px;
+}
+
+.hLine5 {
+    width: 90px;
+    height: 6px;
+    position: relative;
+    bottom: 36px;
+    right: 105px;
+    background-color: #24292c;
+}
+
+.skill2 {
+    left: 40px;
+    bottom: 25px;
+}
+
+.hLine6 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 44px;
+    right: 100px;
+}
+
+.hLine7 {
+    width: 65px;
+    height: 6px;
+    position: relative;
+    bottom: 60px;
+    right: 118px;
+    background-color: #24292c;
+}
+
+.skill3 {
+    left: 40px;
+    bottom: 51px;
+}
+
+.hLine8 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 71px;
+    right: 100px;
+}
+
+.hLine9 {
+    width: 40px;
+    height: 6px;
+    position: relative;
+    bottom: 87px;
+    right: 130px;
+    background-color: #24292c;
+}
+
+.personSkills {
+    color: #31383d;
+    position: relative;
+    left: 330px;
+    bottom: 242px;
+}
+
+.hLine10 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 20px;
+    right: 130px;
+}
+
+.hLine11 {
+    width: 80px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 36px;
+    right: 140px;
+}
+
+.skill5 {
+    bottom: 24px;
+}
+
+.hLine12 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 45px;
+    right: 130px;
+}
+
+.hLine13 {
+    width: 90px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 61px;
+    right: 135px;
+}
+
+.skill6 {
+    bottom: 52px;
+}
+
+.hLine14 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 71px;
+    right: 130px;
+}
+
+.hLine15 {
+    width: 80px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 87px;
+    right: 140px;
+}
