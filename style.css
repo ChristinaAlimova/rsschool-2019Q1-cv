@@ -1,0 +1,586 @@
+body {
+    margin: 0;
+    background-color: grey;
+    color: white;
+    overflow-x: hidden;
+}
+
+/*start block A*/
+
+.mainContainer {
+    width: 900px;
+    height: 1125px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.block1 {
+    height: 1125px;
+    width: 300px;
+    background-color: #31383d;
+}
+
+.name {
+    height: 260px;
+}
+
+.name h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+.name p {
+    font-size: 17px;
+    position: relative;
+    bottom: 10px;
+}
+
+.image {
+    border: 1px solid grey;
+    position: relative;
+    bottom: 30px;
+    height: 190px;
+    width: 240px;
+}
+
+.aboutMe {
+    height: 205px;
+}
+
+.aboutMe p {
+    text-align: justify;
+}
+
+.address {
+    height: 60px;
+    position: relative;
+    bottom: 15px;
+}
+
+.address p {
+    margin: 0 auto;
+}
+
+.contacts {
+    position: relative;
+    bottom: 15px;
+    height: 130px;
+}
+
+.contacts p {
+    margin: 0 auto;
+}
+
+.website {
+    position: relative;
+    bottom: 49px;
+    height: 20px;
+}
+
+.website a {
+    color: white;
+    display: block;
+    margin: 2px auto;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+
+.website p {
+    margin:6px auto;
+}
+
+.block1 div {
+    width: 240px;
+    margin: 50px auto;
+}
+
+.interested p {
+    margin-top: 30px;
+}
+
+.interested img {
+    margin-right: 6px;
+    border-right: 1px solid white;
+    padding-right: 8px;
+}
+
+.interested img:last-child {
+    border: none;
+}
+
+.animation {
+    position: relative;
+    bottom: 25px;
+}
+
+/*start block B / work experience*/
+
+.block2 {
+    height: 1125px;
+    width: 600px;
+    background-color: white;
+}
+
+.experience {
+    height: 460px;
+}
+
+.chapter1 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 270px;
+    height: 39px;
+    text-align: center;
+    top: 15px;
+    padding-top: 3px; 
+}
+
+.hLine1 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 32px;
+}
+
+h4 {
+    color: #31383d;
+    position: relative;
+}
+
+.dataJob1 {
+    left: 40px;
+    top: 2px;
+}
+
+.circle1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 33px;
+}
+
+.job1 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 68px;
+}
+
+.job1 h4 {
+    margin-bottom: 0;
+}
+
+.job1 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job1 p {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.vLine1 {
+    width: 0;
+    height: 110px;
+    position: relative;
+    bottom: 164px;
+    right: 65px;
+}
+
+.dataJob2 {
+    left: 40px;
+    bottom: 187px;
+}
+
+.circle2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 221px;
+}
+
+.job2 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 255px;
+}
+
+.job2 h4 {
+    margin-bottom: 0;
+}
+
+.job2 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job2 p {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.dataJob3 {
+    left: 40px;
+    bottom: 246px;
+}
+
+.vLine2 {
+    width: 0;
+    height: 110px;
+    position: relative;
+    bottom: 395px;
+    right: 65px;
+}
+
+.circle3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 400px;
+}
+
+.job3 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 433px;
+}
+
+.job3 h4 {
+    margin-bottom: 0;
+}
+
+.job3 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job3 p {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+/*start block B / education*/
+
+.education {
+    height: 310px;
+}
+
+.chapter2 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 250px;
+    height: 39px;
+    padding-left: 20px;
+    padding-top: 3px; 
+}
+
+.hLine2 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 46px;
+}
+
+.dataStudy1 {
+    left: 40px;
+    bottom: 10px;
+}
+
+.circle4 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 43px;
+}
+
+.studies1 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 77px;
+}
+
+.studies1 h4 {
+    margin-bottom: 0;
+}
+
+.studies1 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.vLine3 {
+    width: 0;
+    height: 60px;
+    position: relative;
+    right: 65px;
+    bottom: 106px;
+}
+
+.dataStudy2 {
+    left: 40px;
+    bottom: 130px;
+}
+
+.circle5 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 165px;
+}
+
+.studies2 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 199px;
+}
+
+.studies2 h4 {
+    margin-bottom: 0;
+}
+
+.studies2 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.vLine4 {
+    width: 0;
+    height: 60px;
+    position: relative;
+    bottom: 228px;
+    right: 65px;
+}
+
+.dataStudy3 {
+    left: 40px;
+    bottom: 253px;
+}
+
+.circle6 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 287px;
+}
+
+.studies3 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 322px;
+}
+
+.studies3 h4 {
+    margin-bottom: 0;
+}
+
+.studies3 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+/*start block B / skills*/
+
+.skills {
+    height: 200px;
+}
+
+.chapter3 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 250px;
+    height: 39px;
+    padding-left: 20px;
+    padding-top: 3px; 
+}
+
+.hLine3 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 46px;
+}
+
+.profSkills {
+    position: relative;
+    bottom: 16px;
+}
+
+.profSkills h4 {
+    color: #31383d;
+    position: relative;
+    left: 40px;
+} 
+
+span {
+    color: #31383d;
+    position: relative;
+    display: block;
+}
+
+.skill1 {
+    left: 40px;
+}
+
+.hLine4 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 20px;
+    right: 100px;
+}
+
+.hLine5 {
+    width: 90px;
+    height: 6px;
+    position: relative;
+    bottom: 36px;
+    right: 105px;
+    background-color: #24292c;
+}
+
+.skill2 {
+    left: 40px;
+    bottom: 25px;
+}
+
+.hLine6 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 44px;
+    right: 100px;
+}
+
+.hLine7 {
+    width: 65px;
+    height: 6px;
+    position: relative;
+    bottom: 60px;
+    right: 118px;
+    background-color: #24292c;
+}
+
+.skill3 {
+    left: 40px;
+    bottom: 51px;
+}
+
+.hLine8 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 71px;
+    right: 100px;
+}
+
+.hLine9 {
+    width: 40px;
+    height: 6px;
+    position: relative;
+    bottom: 87px;
+    right: 130px;
+    background-color: #24292c;
+}
+
+.personSkills {
+    color: #31383d;
+    position: relative;
+    left: 330px;
+    bottom: 242px;
+}
+
+.hLine10 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 20px;
+    right: 130px;
+}
+
+.hLine11 {
+    width: 80px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 36px;
+    right: 140px;
+}
+
+.skill5 {
+    bottom: 24px;
+}
+
+.hLine12 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 45px;
+    right: 130px;
+}
+
+.hLine13 {
+    width: 90px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 61px;
+    right: 135px;
+}
+
+.skill6 {
+    bottom: 52px;
+}
+
+.hLine14 {
+    width: 100px;
+    height: 6px;
+    position: relative;
+    bottom: 71px;
+    right: 130px;
+}
+
+.hLine15 {
+    width: 80px;
+    height: 6px;
+    position: relative;
+    background-color: #24292c;
+    bottom: 87px;
+    right: 140px;
+}
