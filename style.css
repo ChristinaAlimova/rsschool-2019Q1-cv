@@ -1,1 +1,115 @@
+body {
+    margin: 0;
+    background-color: grey;
+    color: white;
+    overflow-x: hidden;
+}
 
+/*start block A*/
+
+.mainContainer {
+    width: 900px;
+    height: 1125px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.block1 {
+    height: 1125px;
+    width: 300px;
+    background-color: #31383d;
+}
+
+.name {
+    height: 260px;
+}
+
+.name h1 {
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+.name p {
+    font-size: 17px;
+    position: relative;
+    bottom: 10px;
+}
+
+.image {
+    border: 1px solid grey;
+    position: relative;
+    bottom: 30px;
+    height: 190px;
+    width: 240px;
+}
+
+.aboutMe {
+    height: 205px;
+}
+
+.aboutMe p {
+    text-align: justify;
+}
+
+.address {
+    height: 60px;
+    position: relative;
+    bottom: 15px;
+}
+
+.address p {
+    margin: 0 auto;
+}
+
+.contacts {
+    position: relative;
+    bottom: 15px;
+    height: 130px;
+}
+
+.contacts p {
+    margin: 0 auto;
+}
+
+.website {
+    position: relative;
+    bottom: 49px;
+    height: 20px;
+}
+
+.website a {
+    color: white;
+    display: block;
+    margin: 2px auto;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+
+.website p {
+    margin:6px auto;
+}
+
+.block1 div {
+    width: 240px;
+    margin: 50px auto;
+}
+
+.interested p {
+    margin-top: 30px;
+}
+
+.interested img {
+    margin-right: 6px;
+    border-right: 1px solid white;
+    padding-right: 8px;
+}
+
+.interested img:last-child {
+    border: none;
+}
+
+.animation {
+    position: relative;
+    bottom: 25px;
+}
