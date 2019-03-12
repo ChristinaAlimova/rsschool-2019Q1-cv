@@ -276,3 +276,139 @@ h4 {
     margin-top: 5px;
     text-align: justify;
 }
+
+/*start block B / education*/
+
+.education {
+    height: 310px;
+}
+
+.chapter2 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 250px;
+    height: 39px;
+    padding-left: 20px;
+    padding-top: 3px; 
+}
+
+.hLine2 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 46px;
+}
+
+.dataStudy1 {
+    left: 40px;
+    bottom: 10px;
+}
+
+.circle4 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 43px;
+}
+
+.studies1 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 77px;
+}
+
+.studies1 h4 {
+    margin-bottom: 0;
+}
+
+.studies1 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.vLine3 {
+    width: 0;
+    height: 60px;
+    position: relative;
+    right: 65px;
+    bottom: 106px;
+}
+
+.dataStudy2 {
+    left: 40px;
+    bottom: 130px;
+}
+
+.circle5 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 165px;
+}
+
+.studies2 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 199px;
+}
+
+.studies2 h4 {
+    margin-bottom: 0;
+}
+
+.studies2 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.vLine4 {
+    width: 0;
+    height: 60px;
+    position: relative;
+    bottom: 228px;
+    right: 65px;
+}
+
+.dataStudy3 {
+    left: 40px;
+    bottom: 253px;
+}
+
+.circle6 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 287px;
+}
+
+.studies3 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 322px;
+}
+
+.studies3 h4 {
+    margin-bottom: 0;
+}
+
+.studies3 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
