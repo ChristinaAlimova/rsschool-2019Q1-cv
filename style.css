@@ -113,3 +113,166 @@ body {
     position: relative;
     bottom: 25px;
 }
+
+/*start block B / work experience*/
+
+.block2 {
+    height: 1125px;
+    width: 600px;
+    background-color: white;
+}
+
+.experience {
+    height: 460px;
+}
+
+.chapter1 {
+    background-color: #31383d;
+    position: relative;
+    font-size: 30px;
+    left: 40px;
+    width: 270px;
+    height: 39px;
+    text-align: center;
+    top: 15px;
+    padding-top: 3px; 
+}
+
+.hLine1 {
+    width: 230px;
+    position: relative;
+    left: 138px;
+    bottom: 32px;
+}
+
+h4 {
+    color: #31383d;
+    position: relative;
+}
+
+.dataJob1 {
+    left: 40px;
+    top: 2px;
+}
+
+.circle1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 33px;
+}
+
+.job1 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 68px;
+}
+
+.job1 h4 {
+    margin-bottom: 0;
+}
+
+.job1 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job1 p {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.vLine1 {
+    width: 0;
+    height: 110px;
+    position: relative;
+    bottom: 164px;
+    right: 65px;
+}
+
+.dataJob2 {
+    left: 40px;
+    bottom: 187px;
+}
+
+.circle2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 221px;
+}
+
+.job2 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 255px;
+}
+
+.job2 h4 {
+    margin-bottom: 0;
+}
+
+.job2 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job2 p {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.dataJob3 {
+    left: 40px;
+    bottom: 246px;
+}
+
+.vLine2 {
+    width: 0;
+    height: 110px;
+    position: relative;
+    bottom: 395px;
+    right: 65px;
+}
+
+.circle3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #31383d;
+    position: relative;
+    left: 230px;
+    bottom: 400px;
+}
+
+.job3 {
+    color: #31383d;
+    width: 298px;
+    position: relative;
+    left: 258px;
+    bottom: 433px;
+}
+
+.job3 h4 {
+    margin-bottom: 0;
+}
+
+.job3 h5 {
+    margin-top: 3px;
+    margin-bottom: 0;
+}
+
+.job3 p {
+    margin-top: 5px;
+    text-align: justify;
+}
